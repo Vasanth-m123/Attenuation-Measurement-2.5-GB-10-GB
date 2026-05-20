@@ -62,6 +62,27 @@ Using the power budget equation and the parameters below, determine the attenuat
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
 
 ---
+# 2.5 GB
+## LOW NOISE FOR 2.5 GB
+<img width="977" height="735" alt="Screenshot 2026-05-20 085930" src="https://github.com/user-attachments/assets/8257be8f-b783-4b29-bfe9-9fd2833522ef" />
+
+## HIGH NOISE 2.5 GB 
+<img width="974" height="731" alt="Screenshot 2026-05-20 090032" src="https://github.com/user-attachments/assets/e329e0fe-faa1-458b-9598-ab8d5e8fde95" />
+
+## TABULATION 
+<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/00f4dff4-8227-4135-9ab2-94e2199a8206" />
+
+# 10 GB 
+## LOW NOISE FOR 10 GB 
+<img width="977" height="732" alt="Screenshot 2026-05-20 090709" src="https://github.com/user-attachments/assets/5e03ede7-7435-421d-b8fb-529482be5683" />
+
+## HIGH NOISE FOR 10 GB 
+
+<img width="977" height="739" alt="Screenshot 2026-05-20 090731" src="https://github.com/user-attachments/assets/f310d874-157c-4d18-b7ad-c9fe57432c81" />
+
+## TABULATION 
+
+<img width="1600" height="1142" alt="image" src="https://github.com/user-attachments/assets/9868ac57-4039-4d77-8e0b-1dd8d8b86918" />
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
@@ -82,3 +103,8 @@ Your report should contain:
   
 
 - **Written Summary** of observations and explanations of differences.  
+
+## RESULT 
+Thus the attenuation-limited fiber length based on the power budget equation is successfully simulated and verified.
+
+
